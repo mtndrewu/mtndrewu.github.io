@@ -115,6 +115,132 @@ button a {
     text-decoration: none;
 }
 
+/* Python Button Styles */
+.python-button {
+    border: none;
+    cursor: default;
+    padding: 0.2rem;
+    margin: 0;
+}
+
+.python-button:hover {
+    background-color: #3776ab;
+}
+
+.python-button i {
+    font-size: 2rem;
+    color: #3776ab;
+}
+
+.python-button:hover i {
+    color: #101010;
+}
+
+/* Jupyter Button Styles */
+.jupyter-button {
+    border: none;
+    cursor: default;
+    padding: 0.2rem;
+    margin: 0;
+}
+
+.jupyter-button:hover {
+    background-color: #f37626;
+}
+
+.jupyter-button i {
+    font-size: 2rem;
+    color: #f37626;
+}
+
+.jupyter-button:hover i {
+    color: #101010;
+}
+
+/* NumPy Button Styles */
+.numpy-button {
+    border: none;
+    cursor: default;
+    padding: 0.2rem;
+    margin: 0;
+}
+
+.numpy-button:hover {
+    background-color: #013243;
+}
+
+.numpy-button i {
+    font-size: 2rem;
+    color: #013243;
+}
+
+.numpy-button:hover i {
+    color: #101010;
+}
+
+/* Pandas Button Styles */
+.pandas-button {
+    border: none;
+    cursor: default;
+    padding: 0.2rem;
+    margin: 0;
+}
+
+.pandas-button:hover {
+    background-color: #1d0679;
+}
+
+.pandas-button i {
+    font-size: 2rem;
+    color: #1d0679;
+}
+
+.pandas-button:hover i {
+    color: #101010;
+}
+
+/* Matplotlib Button Styles */
+.matplotlib-button {
+    border: none;
+    cursor: default;
+    padding: 0.2rem;
+    margin: 0;
+}
+
+.matplotlib-button:hover {
+    background-color: #11557c;
+}
+
+.matplotlib-button i {
+    font-size: 2rem;
+    color: #11557c;
+}
+
+.matplotlib-button:hover i {
+    color: #101010;
+}
+
+/* scikit-learn Button Styles */
+.sklearn-button {
+    border: none;
+    cursor: default;
+    padding: 0.2rem;
+    margin: 0;
+}
+
+.sklearn-button:hover {
+    background-color: #f7931e;
+}
+
+.sklearn-button i {
+    font-size: 2rem;
+    color: #f7931e;
+}
+
+.sklearn-button:hover i {
+    color: #101010;
+}
+
 /* PHP Button Styles */
 .php-button {
     border: none;
